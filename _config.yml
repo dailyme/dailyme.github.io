@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   오늘도 퇴근을 하기 위해 출근하는 개발자. 퇴근을 위한 기술을 연구합니다.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dailyme.github.io" # the base hostname & protocol for your site
-twitter_username:
+# twitter_username:
 github_username:  dailyme
 
 # Build settings
